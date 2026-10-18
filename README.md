@@ -36,6 +36,4 @@ This chatbot can handle queries about CodeAlpha internship, certificate, tasks, 
 - `README.md` - Documentation
 
 ## 🎥 Demo Video
-[Add your Google Drive / Screen recording link here]
-
-## 🔗 Related
+https://drive.google.com/file/d/1C2-CjNjCK9zdCB4G3H1wvSx1Sxq5wiMX/view?usp=drivesdk
